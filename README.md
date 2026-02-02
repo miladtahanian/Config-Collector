@@ -1,6 +1,6 @@
 # V2ray Config Collector
 
-This project automatically collects V2Ray, Trojan, and Shadowsocks configurations from various Telegram channels. The subscription links are updated automatically every 12 hours, providing you with fresh configurations.
+This project automatically collects V2Ray, Trojan, and Shadowsocks configurations from various Telegram channels. The subscription links are updated automatically every 30 minutes, providing you with fresh configurations.
 
 ***
 
