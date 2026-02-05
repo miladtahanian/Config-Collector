@@ -137,25 +137,25 @@ vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path
 vless://03639697-0a0f-4201-8ee7-43d7a1fbf95e@51.161.64.214:9090?security=none&encryption=none&host=neshan.org&headerType=none&type=tcp#IP_CF_Config-386
 vless://02b320ce-09f8-4cb5-9c46-9024f5585881@free1.barayekhudam.ir:2255?type=tcp&encryption=none&sni=radar.arvancloud.ir&fp=firefox&security=reality&pbk=Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc&sid=983c9303725c67#IP_CF_Config-385
 vless://016f56be-21ba-4c39-aa3d-2cc2c3ea9929@vip2.kaixincloud.top:8880?type=ws&encryption=none&host=r-one.lat&path=/eyJqdW5rIjoicXNuOHJDRXhEdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0?ed=2560?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#IP_CF_Config-384
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&headerType=none&type=tcp#IP_CF_Config-383
-vless://014746c8-2cae-4809-b333-04fd68c54052@german2.activevps2.in:22015?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#configV2rayNG-382
-vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@100niggavs100.mrpixanos.ir:42542?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#IP_CF_Config-381
-urgss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.23.4:47121#shadow_socks1-380
-ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjIzMy4xMzQ6MTUz#shadow_socks1-379
-ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjIzMS4xODA6MTUz#shadow_socks1-378
-ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjI0Ni4xNzE6MTUz#shadow_socks1-377
-ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDIuNTkuMjE0LjIwNDoxNTM=#shadow_socks1-376
-ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDE5My4zOC41MS4xOTI6MTUz#shadow_socks1-375
-ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjIzMy4xMzQ6MTUz#shadow_socks1-374
-ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjIzMS4xODA6MTUz#shadow_socks1-373
-ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjI0Ni4xNzE6MTUz#shadow_socks1-372
-ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDIuNTkuMjE0LjIwNDoxNTM=#shadow_socks1-371
-ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDE5My4zOC41MS4xOTI6MTUz#shadow_socks1-370
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#vpn_ioss-369
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#vpn_ioss-368
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#IP_CF_Config-367
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?path=/&security=tls&host=_acme-challenge.2go.cloudns.be&type=ws&sni=_acme-challenge.2go.cloudns.be#IP_CF_Config-366
-trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?allowInsecure=1&host=hl-freedom-1.undef.network&path=/f2fc2a1f&type=ws#IP_CF_Config-365
+vless://014746c8-2cae-4809-b333-04fd68c54052@german2.activevps2.in:22015?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#configV2rayNG-383
+vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@100niggavs100.mrpixanos.ir:42542?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#IP_CF_Config-382
+urgss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.23.4:47121#shadow_socks1-381
+ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjIzMy4xMzQ6MTUz#shadow_socks1-380
+ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjIzMS4xODA6MTUz#shadow_socks1-379
+ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjI0Ni4xNzE6MTUz#shadow_socks1-378
+ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDIuNTkuMjE0LjIwNDoxNTM=#shadow_socks1-377
+ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDE5My4zOC41MS4xOTI6MTUz#shadow_socks1-376
+ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjIzMy4xMzQ6MTUz#shadow_socks1-375
+ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjIzMS4xODA6MTUz#shadow_socks1-374
+ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjI0Ni4xNzE6MTUz#shadow_socks1-373
+ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDIuNTkuMjE0LjIwNDoxNTM=#shadow_socks1-372
+ub ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDE5My4zOC41MS4xOTI6MTUz#shadow_socks1-371
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#vpn_ioss-370
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#vpn_ioss-369
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#IP_CF_Config-368
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?path=/&security=tls&host=_acme-challenge.2go.cloudns.be&type=ws&sni=_acme-challenge.2go.cloudns.be#IP_CF_Config-367
+trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?allowInsecure=1&host=hl-freedom-1.undef.network&path=/f2fc2a1f&type=ws#IP_CF_Config-366
+trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?allowInsecure=1&path=/f2fc2a1f&sni=hl-freedom-1.undef.network&type=ws#IP_CF_Config-365
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=/f2fc2a1f&type=ws#IP_CF_Config-364
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=/&security=tls&host=snippets.kkii.eu.org&type=ws&sni=snippets.kkii.eu.org#IP_CF_Config-363
 trojan://5a2c16f9@172.64.147.211:2096?path=/Telegram🇨🇳WangCai2&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#IP_CF_Config-362
