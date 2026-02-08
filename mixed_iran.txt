@@ -107,8 +107,8 @@ vless://00c01f55-e31a-41cd-872b-938cda90afc3@212.233.73.212:443?encryption=none&
 vless://00c01f55-e31a-41cd-872b-938cda90afc3@212.111.84.82:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=2715592069f36fe7#IP_CF_Config-382
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#IP_CF_Config-381
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#IP_CF_Config-380
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#IP_CF_Config-379
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#IP_CF_Config-378
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?path=/&security=tls&encryption=none&insecure=1&host=sub.mot.ip-ddns.com&type=ws&allowInsecure=1&sni=sub.mot.ip-ddns.com#IP_CF_Config-379
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#IP_CF_Config-378
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?path=/&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#IP_CF_Config-377
 urgss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.23.4:47121#shadow_socks1-376
 ub ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjIzMy4xMzQ6MTUz#shadow_socks1-375
