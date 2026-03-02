@@ -2,3 +2,9 @@
 @blackRay,
 @Config_magazine,
 @WedBazGap
+@VPNnobody
+@Ciurou
+@NetMeli9
+@ProxyMtpVPN
+@NormanV2ray
+@canfingV2rayNG
