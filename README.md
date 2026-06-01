@@ -10,10 +10,6 @@ To use these configurations, simply add the following URLs as subscription links
 
 | Config Type | Subscription Link |
 | :--- | :--- |
-| **Vmess** | `https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vmess_iran.txt` |
-| **Vless** | `https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/vless_iran.txt` |
-| **Trojan** | `https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/trojan_iran.txt` |
-| **ShadowSocks** | `https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/ss_iran.txt` |
 | **Mixed** | `https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt` |
 
 ***
