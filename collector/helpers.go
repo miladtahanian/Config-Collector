@@ -10,15 +10,15 @@ import (
 func ChangeUrlToTelegramWebUrl(input string) string {
 	// Check if the input URL already contains "/s/", if not, add it
 	if !strings.Contains(input, "/s/") {
-		// Find the position of "/t.me/" in the URL
-		index := strings.Index(input, "/t.me/")
+		// Find the position of "/telegram.me/" in the URL
+		index := strings.Index(input, "/telegram.me/")
 		if index != -1 {
-			// Insert "/s/" after "/t.me/"
-			modifiedURL := input[:index+len("/t.me/")] + "s/" + input[index+len("/t.me/"):]
+			// Insert "/s/" after "/telegram.me/"
+			modifiedURL := input[:index+len("/telegram.me/")] + "s/" + input[index+len("/telegram.me/"):]
 			return modifiedURL
 		}
 	}
-	// If "/s/" already exists or "/t.me/" is not found, return the input as is
+	// If "/s/" already exists or "/telegram.me/" is not found, return the input as is
 	return input
 }
 
